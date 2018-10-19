@@ -105,4 +105,5 @@ public class Joker extends Card implements Comparator
 ex//
 - Factory method
 - Iterator
-- 
+
+
